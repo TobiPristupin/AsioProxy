@@ -1,0 +1,4 @@
+/home/pristu/Documents/cpp/proxy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pristu/Documents/cpp/proxy/cmake-build-debug/CMakeFiles/proxy2.dir
+/home/pristu/Documents/cpp/proxy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pristu/Documents/cpp/proxy/cmake-build-debug/CMakeFiles/proxy.dir
